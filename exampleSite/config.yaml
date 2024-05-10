@@ -1,5 +1,5 @@
-baseURL: https://boristest-hugo-toha.netlify.com/
-languageCode: fr
+baseURL: "https://boristest-hugo-toha.netlify.com/"
+languageCode: "fr"
 title: "Toha-Boris"
 theme: "toha"
 
